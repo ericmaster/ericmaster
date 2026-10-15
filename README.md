@@ -13,6 +13,6 @@ Applied AI engineer in Quito, Ecuador · agents, RAG & guardrails on Cloudflare 
 #### ☕ Cómprame un café / Buy me a coffee
 Si algo de lo que publico te sirvió, invítame un café con DeUna (Ecuador). / If something I published helped you, buy me a coffee via DeUna.
 
-<img src="https://ericmaster.ninja/assets/images/deuna-qr-300.png" alt="Código QR de DeUna / DeUna QR code" width="180">
+<img src="deuna-qr-300.png" alt="Código QR de DeUna / DeUna QR code" width="180">
 
-Funciona desde la app DeUna o la app de tu banco ecuatoriano compatible con DeUna. Más info: [ericmaster.ninja/support](https://ericmaster.ninja/support/)
+Funciona desde la app DeUna o la app de tu banco ecuatoriano compatible con DeUna. 
