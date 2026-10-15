@@ -15,4 +15,4 @@ Si algo de lo que publico te sirvió, invítame un café con DeUna (Ecuador). / 
 
 <img src="deuna-qr-300.png" alt="Código QR de DeUna / DeUna QR code" width="180">
 
-Funciona desde la app DeUna o la app de tu banco ecuatoriano compatible con DeUna. 
+Funciona desde la app DeUna o la app de tu banco ecuatoriano compatible con DeUna. Más info: [ericmaster.ninja/support](https://ericmaster.ninja/support/)
